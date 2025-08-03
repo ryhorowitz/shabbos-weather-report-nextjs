@@ -103,3 +103,9 @@ public
 tmp/
 temp/ 
 node_modules
+
+#AWS EC2 deploy script
+deploy.sh
+
+#AWS EC2 nginx config
+nginx.conf
