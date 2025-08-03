@@ -1,5 +1,6 @@
 "use client";
 
+import "bootstrap/dist/css/bootstrap.min.css";
 import CandleTimes from "../src/components/CandleTimes.jsx";
 import WeatherContainer from "../src/components/WeatherContainer.jsx";
 import { ShabbosProvider } from "../src/context/shabbosContext.js";

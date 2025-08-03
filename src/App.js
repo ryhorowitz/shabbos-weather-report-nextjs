@@ -26,8 +26,12 @@ function App() {
               Erev Shabbos Weather Report
             </h1>
             <p
-              className="intro-blurb mx-5 px-5"
-              style={{ fontSize: "0.8rem", padding: "0 1rem" }}
+              className="intro-blurb"
+              style={{ 
+                fontSize: "0.8rem", 
+                padding: "0 1rem",
+                margin: "0 1rem"
+              }}
             >
               Welcome to the Erev Shabbos Weather Report! This app provides you
               with up-to-date weather forecasts and candle lighting times to
